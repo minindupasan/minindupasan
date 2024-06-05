@@ -1,6 +1,9 @@
-Hi, I’m @minindu-cmd \n
-I’m interested in Embedded Systems \n
-I’m currently learning Computer Systems Engineering\n
-I’m looking to collaborate on IoT projects\n
-How to reach me minindupasan@gmail.com\n
-Pronouns: He/Him
+Hi, I'm Minindu Pasan (@minindu-cmd) 👋<br/>
+Pronouns: He/Him<br/>
+
+I'm passionate about Embedded Systems and currently pursuing a degree in Computer Systems Engineering. I have a strong interest in IoT projects and I'm looking forward to collaborating with like-minded individuals.<br/>
+
+📫 How to reach me:it23162532@my.sliit.lk<br/>
+                    minindupasan@gmail.com<br/>
+
+Let's connect and innovate together!<br/>
