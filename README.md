@@ -1,6 +1,6 @@
-![image](https://github.com/minindu-cmd/minindu-cmd/assets/140399704/d6f03a8c-ce5b-4029-acdc-5cae00c68df1)<div align="center">
+<div align="center">
 
-  <img src="" alt="Profile Picture" style="border-radius: 50%; width: 150px; height: 150px;" />
+  <img src=IMG_9999.jpg alt="Profile Picture" style="border-radius: 50%; width: 150px; height: 150px;" />
 
   # Minindu Pasan (@minindu-cmd) 👋  
   ### Pronouns: He/Him
