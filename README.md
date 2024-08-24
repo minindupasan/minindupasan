@@ -20,8 +20,6 @@
 
   ### Let's connect and innovate together!
 
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=minindu-cmd&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-  </a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=minindupasan&theme=whatsapp-dark2&hide_border=true&border_radius=30&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=600)](https://git.io/streak-stats)
 
 </div>
