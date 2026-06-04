@@ -5,8 +5,7 @@
 <div align="center">
 
 <img src="scramble.svg" alt="Minindu Pasan — Embedded Systems Engineer" />
-
-<br><br>
+<br>
 
 [![](https://img.shields.io/badge/portfolio-visit-000?style=flat-square&logo=vercel&logoColor=white)](https://minindupasan.github.io)
 &nbsp;
